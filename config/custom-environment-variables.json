@@ -1,0 +1,16 @@
+{
+  "jwtPrivateKey": "privateKey",
+  "db": "gsc_db",
+  "systemEmail": "systemEmail",
+  "password": "emailPassword",
+  "adminEmail": "adminEmail",
+  "fromEmail": "fromEmail",
+  "sqlHost": "sqlHost",
+  "sqlUser": "sqlUser",
+  "sqlPassword": "sqlPassword",
+  "sqlDb": "sqlDb",
+  "host": "host",
+  "emailPort": "port",
+  "secure": "secure",
+  "emailUsername": "emailUsername"
+}
